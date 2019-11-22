@@ -90,6 +90,7 @@ namespace FlagProject
             Vector<double> ranfFlag;
             Stopwatch stopwatch = new Stopwatch();
             uint lTime = 0, cTime = 0;
+
             int saved = 0;
             long times = 0;
             
